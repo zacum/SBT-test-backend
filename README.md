@@ -1,14 +1,3 @@
-![OffBeat logo](media/.github/logo-banner.png)
-
-This repository includes the specifications for developing the take-home project `University Grades SBT`
-
-------------------
-
-# Instructions
-- Fork this repository on your own Github profile
-- Follow the project [specifications](#specs) 
-- Send us the result! 🔥
-
 # Project
 This take-home project will be based on developing an application for universities to mint they're grades as an SBT.   
 To be more specific; Your application will permit to login a user with it's wallet, choose the university her/his in, fill a form with its personal information and, with a secret key, he'll be able to mint it's degree SBT to her/his wallet.  
@@ -90,10 +79,3 @@ In the folder `media/` your gonna find all the static files you need.
 
   The success page will show the minted SBT with a redirection link to the SBT on [OpenSea](https://opensea.io/).
   
-
-And that's it! 🔥  
-Have fun with it ❤️
-
--------------------
-  
-This repository should store all the information you need to develop the project, but if you have any blockers, don't hesitate to ask us.
